@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ecobusque",
+    "slug": "ecobusque",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/captura_de_tela_2024_09_24_094624.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/captura_de_tela_2024_09_24_094624.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/captura_de_tela_2024_09_24_094624.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gui2545.ecobusque"
+    },
+    "web": {
+      "favicon": "./assets/captura_de_tela_2024_09_24_094624.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0dcd56c5-6594-44c1-b70c-7368fb8be14a"
+      }
+    },
+    "cli": {
+      "appVersionSource": "source"
+    }
+  }
+}
